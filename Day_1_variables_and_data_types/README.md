@@ -10,7 +10,7 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS
 
 ## 🔎 Solution
 
-[Tasks/activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_1_variables_and_data_types/01_tasks_or_activities)
+[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_1_variables_and_data_types/01_tasks_or_activities)
 
 [Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_1_variables_and_data_types/01_feature_request)
 
