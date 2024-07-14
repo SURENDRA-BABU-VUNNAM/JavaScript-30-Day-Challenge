@@ -1,4 +1,4 @@
-# 🌟 Day 2: operators
+# 🌟 Day 2: Operators
 
 ## 📜 Challenge Details
 
