@@ -6,4 +6,4 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-1: variables and Data Types](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_1_variables_and_data_types)
 
-### [Day-2: operators](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_2_operators)
+### [Day-2: Operators](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_2_operators)
