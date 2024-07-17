@@ -1,4 +1,4 @@
-# 🌟 Day 4: Funcitons
+# 🌟 Day 5: Funcitons
 
 ## 📜 Challenge Details
 
