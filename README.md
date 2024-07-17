@@ -11,3 +11,6 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 ### [Day-3: Conditionals](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_3_conditionals)
 
 ### [Day-4: Loops](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_4_loops)
+
+### [Day-5: Functions](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_5_functions)
+
