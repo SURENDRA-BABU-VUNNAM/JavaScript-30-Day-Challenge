@@ -1,10 +1,13 @@
 //  Create a script that demonstrates the creation and manipulation of a two-dimensional array.
 
-let array_2d = [
-  [1,2,3],
-  [4,5,6],
-  [7,8,9],
-]
+let array_2d = []
+
+for (let i = 0; i < 3; i++){
+  array_2d[i]= []
+  for(let j=0; j<3; j++){
+    array_2d[i][j] = prompt(`enter the value for ${i} ${j}`)
+  }
+}
 
 let manupulate_array = array_2d.map(function(e){
   return e.filter(function(e){

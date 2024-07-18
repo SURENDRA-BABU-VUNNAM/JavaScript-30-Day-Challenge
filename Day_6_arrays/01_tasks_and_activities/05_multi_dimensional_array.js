@@ -1,10 +1,13 @@
 // Task 12: Create a two-dimensional array (matrix) and log the entire array to the console.
 
-let matrix_2d = [
-  [2, 4, 6],
-  [3, 5, 7],
-  [1, 9, 8],
-];
+let matrix_2d = [];
+
+for (let i = 0; i < 3; i++){
+  matrix_2d[i] = [];
+  for (let j = 0; j < 3; j++){
+    matrix_2d[i][j] = i * 3 + j + 1;
+  }
+}
 
 console.log(matrix_2d);
 
