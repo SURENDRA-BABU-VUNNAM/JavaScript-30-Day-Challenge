@@ -15,3 +15,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 ### [Day-5: Functions](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_5_functions)
 
 ### [Day-6: Arrays](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_6_arrays)
+
+### [Day-7: Objects](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_7_objects) 
