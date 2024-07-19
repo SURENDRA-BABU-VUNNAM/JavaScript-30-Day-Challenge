@@ -16,6 +16,6 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS and break t
 
 ## 🔗 References
 
-[ARRAYS](https://www.perplexity.ai/search/explain-me-about-objects-and-h-g.H5zDCiR4CLysvI48KGQA)
+[OBJECTS](https://www.perplexity.ai/search/explain-me-about-objects-and-h-g.H5zDCiR4CLysvI48KGQA)
 
 [JAVASCRIPT.INFO](https://javascript.info/)
