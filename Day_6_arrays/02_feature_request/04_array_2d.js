@@ -5,7 +5,7 @@ let array_2d = []
 for (let i = 0; i < 3; i++){
   array_2d[i]= []
   for(let j=0; j<3; j++){
-    array_2d[i][j] = prompt(`enter the value for ${i} ${j}`)
+    array_2d[i][j] = Number(prompt(`enter the value for ${i} ${j}`))
   }
 }
 
