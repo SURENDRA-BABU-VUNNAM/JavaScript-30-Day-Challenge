@@ -17,3 +17,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 ### [Day-6: Arrays](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_6_arrays)
 
 ### [Day-7: Objects](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_7_objects) 
+
+### [Day-8: ES6+ FEATURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_8_ES6P_features) 
