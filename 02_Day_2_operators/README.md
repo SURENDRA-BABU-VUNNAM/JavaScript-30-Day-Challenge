@@ -10,9 +10,9 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS
 
 ## 🔎 Solution
 
-[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_2_operators/01_tasks_and_activities)
+[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/02_Day_2_operators/01_tasks_and_activities)
 
-[Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_2_operators/02_feature_request)
+[Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/02_Day_2_operators/02_feature_request)
 
 ## 🔗 References
 

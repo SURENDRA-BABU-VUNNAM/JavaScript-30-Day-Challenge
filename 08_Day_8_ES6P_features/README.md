@@ -10,9 +10,9 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS and break t
 
 ## 🔎 Solution
 
-[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_8_ES6P_features/01_tasks_and_activities)
+[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/08_Day_8_ES6P_features/01_tasks_and_activities)
 
-[Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_8_ES6P_features/02_feature_request)
+[Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/08_Day_8_ES6P_features/02_feature_request)
 
 ## 🔗 References
 
