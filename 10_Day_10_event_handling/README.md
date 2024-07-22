@@ -1,4 +1,4 @@
-# 🌟 Day 10: DOM manipulation
+# 🌟 Day 10: EVENT HANDLING
 
 ## 📜 Challenge Details
 

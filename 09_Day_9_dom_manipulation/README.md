@@ -1,4 +1,4 @@
-# 🌟 Day 9: DOM manipulation
+# 🌟 Day 9: DOM MANIPULATION
 
 ## 📜 Challenge Details
 
