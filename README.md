@@ -21,3 +21,7 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 ### [Day-8: ES6+ FEATURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_8_ES6P_features) 
 
 ### [Day-9: DOM MANIPULATION](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_9_dom_manipulation) 
+
+### [Day-9: DOM MANIPULATION](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_9_dom_manipulation) 
+
+### [Day-10: EVENT HANDLING](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/Day_10_event_handling) 
