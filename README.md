@@ -23,3 +23,6 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 ### [Day-9: DOM MANIPULATION](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/09_Day_9_dom_manipulation) 
 
 ### [Day-10: EVENT HANDLING](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/10_Day_10_event_handling) 
+
+### [Day-11: EVENT HANDLING](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/11_Day_11_promise_async_await) 
+
