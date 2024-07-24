@@ -1,4 +1,4 @@
-# 🌟 Day 11: ERRORS HANDLING
+# 🌟 Day 12: ERRORS HANDLING
 
 ## 📜 Challenge Details
 
