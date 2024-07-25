@@ -26,7 +26,7 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-11: EVENT HANDLING](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/11_Day_11_promise_async_await) 
 
-### [Day-12: ERRORS HANDLING](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/12_Day_12_errors) 
+### [Day-12: PROMISE ASYNC AWAIT](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/12_Day_12_errors) 
 
 ### [Day-13: MODULES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/13_Day_13_modules) 
 
