@@ -1,0 +1,1 @@
+// Write a script that defines a class with private fields and methods to manipulate these fields (optional).

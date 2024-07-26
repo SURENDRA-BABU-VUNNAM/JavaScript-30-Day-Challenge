@@ -30,3 +30,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-13: MODULES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/13_Day_13_modules) 
 
+### [Day-14: CLASSES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/14_Day_14_classes) 
+
