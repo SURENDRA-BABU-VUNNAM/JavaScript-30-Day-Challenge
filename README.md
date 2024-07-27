@@ -32,5 +32,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-14: CLASSES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/14_Day_14_classes) 
 
-### [Day-15: CLOSURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/15_Day_15_closures) 
+### [Day-15: CLOSURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/15_DAY_15_closures) 
 

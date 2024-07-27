@@ -16,6 +16,6 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS and break t
 
 ## 🔗 References
 
-[ERRORS](https://www.perplexity.ai/search/help-me-to-understand-and-crea-V.Nw77tyTu.rnDdjyaWpuw)
+[CLOSURES](https://www.perplexity.ai/search/help-me-to-understand-and-crea-V.Nw77tyTu.rnDdjyaWpuw)
 
 [JAVASCRIPT.INFO](https://javascript.info/)
