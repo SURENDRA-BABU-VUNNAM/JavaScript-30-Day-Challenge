@@ -1,0 +1,1 @@
+//Task 7: Write a recursive function to perform a binary search on a sorted array. Log the index of the target element for a few test cases.
