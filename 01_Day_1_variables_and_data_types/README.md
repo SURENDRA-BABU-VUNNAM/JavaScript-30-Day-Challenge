@@ -16,8 +16,12 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS
 
 ## 🔗 References
 
-[VARIABLES](https://www.perplexity.ai/search/explain-me-about-variables-in-8.yr44kKREOQhDhc3QFweQ)
+[Know how to declare variables using "var", "let", and "const"](https://www.perplexity.ai/search/know-what-a-scope-is-how-to-de-vdEh.8AyQRKWxP.WMJXJxQ)
 
-[DATA TYPES](https://www.perplexity.ai/search/explain-me-about-string-number-alGwcFovQEuh4_N03yoYyg)
+[Understand the different data types in JavaScript](https://www.perplexity.ai/search/help-me-to-understand-the-diff-YrMl4JHDTS2oMusC6YN3bA)
+
+[Be able to use the "typeof" operator to identify the data type of a variable.](https://www.perplexity.ai/search/help-me-to-be-able-to-use-the-9nlHu.ERScinUv4e8ljjjg)
+
+[Understand the concept of variable reassignment and the immutability of const variables ](https://www.perplexity.ai/search/understand-the-concept-of-vari-AZg2SDf8TeCb3j8sDMhgfQ)
 
 [JAVASCRIPT.INFO](https://javascript.info/)
