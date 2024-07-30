@@ -38,5 +38,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-17: DATA STRUCTURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/17_Day_17_data_structures)
 
-### [Day-17: DATA STRUCTURES](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/17_Day_17_data_structures) 
+### [Day-17: ALGORITHMS](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/17_Day_17_data_structures) 
 

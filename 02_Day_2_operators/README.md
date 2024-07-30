@@ -16,6 +16,8 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS
 
 ## 🔗 References
 
-[OPERATORS](https://www.perplexity.ai/search/explain-me-about-arithmetic-op-6rPl0.StT_659Lx4uH6T9Q)
+[Understand and use arithmetic operators to perform basic calculations.](https://www.perplexity.ai/search/help-me-to-understand-and-use-FI67AkTtT.O5ab07xSQcDQ)
+
+
 
 [JAVASCRIPT.INFO](https://javascript.info/)
