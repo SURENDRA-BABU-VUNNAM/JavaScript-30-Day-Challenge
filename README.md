@@ -42,3 +42,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-19: REGULAR EXPRESSIONS](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/19_Day_19_regular_expressions) 
 
+### [Day-20: LOCAL AND SESSION STORAGE](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/20_Day_20_local_and_session_storage) 
+

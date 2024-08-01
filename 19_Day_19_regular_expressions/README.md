@@ -1,4 +1,4 @@
-# 🌟 Day 19: regular expressions
+# 🌟 Day 19: REGULAR EXPRESSIONS
 
 ## 📜 Challenge Details
 
@@ -11,7 +11,7 @@ just be curious use google and peplexity chatGPT claude and MDN DOCS and break t
 
 ## 🔎 Solution
 
-[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/19_Day_19_regular_expressionss/01_tasks_and_activities)
+[Tasks and activities](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/19_Day_19_regular_expressions/01_tasks_and_activities)
 
 [Feature Request](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/19_Day_19_regular_expressions/02_feature_request)
 
