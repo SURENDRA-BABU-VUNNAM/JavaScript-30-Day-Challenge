@@ -1,4 +1,4 @@
-20_Day_20_local_and_session_storage# 🌟 Day 20: LOCAL AND SESSIONS STORAGE
+# 🌟 Day 20: LOCAL AND SESSIONS STORAGE
 
 ## 📜 Challenge Details
 
