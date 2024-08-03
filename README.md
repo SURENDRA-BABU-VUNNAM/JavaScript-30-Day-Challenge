@@ -44,5 +44,5 @@ Welcome to the 30 Days JavaScript Challenge! This challenge will help you enhanc
 
 ### [Day-20: LOCAL AND SESSION STORAGE](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/20_Day_20_local_and_session_storage) 
 
-### [Day-21: Leet Code](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/21_Day_21_leet_code_easy) 
+### [Day-21: LEET CODE EASY](https://github.com/SURENDRA-BABU-VUNNAM/JavaScript-30-Day-challenge/tree/main/21_Day_21_leet_code_easy) 
 

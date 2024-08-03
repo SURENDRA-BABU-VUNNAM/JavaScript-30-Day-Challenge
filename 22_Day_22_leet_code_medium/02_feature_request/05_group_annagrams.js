@@ -1,0 +1,1 @@
+// : Write a script that includes a function to group anagrams and logs the grouped anagrams.
