@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: #ffffff;
+}
+
+button {
+    margin: 10px;
+}
+
+input {
+    border-radius: 5px;
+}
