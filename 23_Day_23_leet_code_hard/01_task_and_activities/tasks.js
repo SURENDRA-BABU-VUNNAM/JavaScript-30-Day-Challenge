@@ -3,13 +3,7 @@
    <h3 id="day-23-leetcode-hard">Day 23: LeetCode Hard</h3> 
    <h4 id="tasks-activities-">Tasks/Activities:</h4> 
    <p><strong>Activity 1: Median of Two Sorted Arrays</strong></p> 
-   <ul> 
-    <li><strong>Task 1:</strong> Solve the "Median of Two Sorted Arrays" problem on LeetCode.
-     <ul> 
-      <li>Write a function that takes two sorted arrays of integers and returns the median of the two sorted arrays.</li> 
-      <li>Log the median for a few test cases, including edge cases.</li> 
-     </ul> </li> 
-   </ul> 
+
    <p><strong>Activity 2: Merge k Sorted Lists</strong></p> 
    <ul> 
     <li><strong>Task 2:</strong> Solve the "Merge k Sorted Lists" problem on LeetCode.

@@ -2,7 +2,7 @@
 
 ## 📜 Challenge Details
 
-!!! still pending
+apply problem solving skills to solve and impliment alogrithms and handle edge case scenarios
 
 ## 📝 Thought Process
 
