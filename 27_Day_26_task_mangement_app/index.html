@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Management App</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="task_list">
+
+        </div>
+        <form id="form">
+            <div>
+                <input type="text" placeholder="Enter your task" id="task_title" required>
+            </div>
+            <div>
+                <input type="text" placeholder="Enter the description of the task" id="task_description" required>
+            </div>
+            <div>
+                <input type="datetime-local" id="due_date" required>
+            </div>
+            <div>
+                <button type="submit">Add Task</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
