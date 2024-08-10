@@ -152,10 +152,12 @@ function update_cart(product) {
     cart_product_quantitiy_increase.addEventListener("click", function (e) {
         e.preventDefault();
         cart_counts[product.id]++
-        count_div.innerText = cart_counts[product.id]
+      count_div.innerText = cart_counts[product.id]
+      console.log(cart_counts);
+      
     });
 
-    // cart product quantity increase button
+    // cart product quantity decrease button
     let cart_product_quantitiy_decrease = document.createElement("button");
     cart_product_quantitiy_decrease.setAttribute("class", "quantity");
     cart_product_quantitiy_decrease.innerText = `-`;
