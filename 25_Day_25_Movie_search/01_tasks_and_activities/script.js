@@ -48,6 +48,12 @@ function movie_card(data) {
     movie_card.appendChild(title);
     
     // poster generation
-    
-    
+  let image_div = document.createElement("div")
+  image_div.setAttribute("id", "image_div")
+  movie_card.appendChild(image_div)
+
+  let image_poster = document.createElement("img")
+  image_poster.setAttribute("src", data.Poster)
+  image_div.appendChild(image_poster)
+  
 }
