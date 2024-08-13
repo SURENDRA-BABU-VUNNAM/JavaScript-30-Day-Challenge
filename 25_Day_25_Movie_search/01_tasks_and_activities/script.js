@@ -56,4 +56,9 @@ function movie_card(data) {
   image_poster.setAttribute("src", data.Poster)
   image_div.appendChild(image_poster)
   
+  // plot 
+  let plot = document.createElement("p")
+  plot.setAttribute("id", "plot")
+  plot.innerText = data.Plot
+  movie_card.appendChild(plot)
 }
