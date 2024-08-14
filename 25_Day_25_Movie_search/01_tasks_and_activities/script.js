@@ -61,4 +61,10 @@ function movie_card(data) {
   plot.setAttribute("id", "plot")
   plot.innerText = data.Plot
   movie_card.appendChild(plot)
+
+  // cast 
+  let cast = document.createElement("p")
+  cast.setAttribute("id", "cast")
+  cast.innerText = data.Cast
+  movie_card.appendChild(cast)
 }
