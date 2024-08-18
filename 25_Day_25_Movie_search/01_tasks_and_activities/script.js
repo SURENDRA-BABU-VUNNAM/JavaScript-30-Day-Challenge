@@ -12,7 +12,7 @@ form.addEventListener("submit", function (e) {
 function movie_fetch(movie) {
   let movie_promise = new Promise((resolve, reject) => {
     const API_KEY = "8fdea641";
-    const url = `http://www.omdbapi.com/?t=${movie}&apikey=${API_KEY}`;
+    const url = `https://www.omdbapi.com/?t=${movie}&apikey=${API_KEY}`;
     fetch(url)
       .then((response) => response.json())
       .then((data) => resolve(data))
@@ -68,5 +68,10 @@ function movie_card(data) {
   actors.innerText = data.Actors
   movie_card.appendChild(actors)
 
+  // creator 
+  let writer = document.createAttribute("p")
+  writer.setAttribute("id", "writer")
+  writer.innerText = data.writer
+  movie_card.appendChild(writer)
   
 }
