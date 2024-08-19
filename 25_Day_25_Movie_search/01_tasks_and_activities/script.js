@@ -69,9 +69,9 @@ function movie_card(data) {
   movie_card.appendChild(actors)
 
   // creator 
-  let writer = document.createAttribute("p")
+  let writer = document.createElement("p")
   writer.setAttribute("id", "writer")
-  writer.innerText = data.writer
+  writer.innerText = data.Writer
   movie_card.appendChild(writer)
   
 }
