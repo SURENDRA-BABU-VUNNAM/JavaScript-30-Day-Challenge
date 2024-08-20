@@ -1,4 +1,4 @@
-<div class="redactor-styles" id="learnyst-content">
+{/* <div class="redactor-styles" id="learnyst-content">
    <h3 id="day-25-project-2-movie-search-app">Day 25: Project 2 - Movie Search App</h3> 
    <h4 id="tasks-activities-">Tasks/Activities:</h4> 
    <p><strong>Activity 1: Setting Up the Project</strong></p> 
@@ -42,4 +42,4 @@
     <li>Fetch and display detailed information about selected movies.</li> 
     <li>Enhance the user interface with CSS styles and animations to make the movie search app more interactive and visually appealing.</li> 
    </ul>
-  </div>
+  </div> */}
